@@ -6,7 +6,7 @@
   <!-- <a href="https://week15.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Week 15</h1>
+<h1 align="center">ATM</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/alcabanillas/ATM?color=56BEB8">
@@ -46,23 +46,21 @@
 
 ## :dart: About ##
 
-Describe your project
+ATM Project. Used to know how to refactor a single HTML file into React components.
+
+
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
+Components created are:
+- ATM Deposit: component that allow us to insert the amount that we desire to deposit or withdraw.
+- Account: contains the ATMDeposit component, the total amount that is stored in state and validates the possible transactions.
+- Transactions: table with the transaction list
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
